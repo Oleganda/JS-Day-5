@@ -1,0 +1,20 @@
+#main {
+    display: grid;
+    grid-template-columns: repeat(3, 300px);
+    justify-content: center;
+    gap: 30px;
+}
+
+#bigImage {
+        display: flex;
+        justify-content: center;       
+}
+.gobtn {
+    background-color:white;
+    border: 1px solid black;
+    padding: 7px;
+    text-decoration: none;
+    color: black;
+    border-radius: 4px;
+    
+}
